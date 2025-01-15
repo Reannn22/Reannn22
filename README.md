@@ -1,7 +1,7 @@
 [![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)](https://github.com/Reannn22)
 <h1 align="center">Hi 👋, I'm Reyhan Capri Moraga</h1>
 <h3 align="center">A passionate web developer currently learning Express.js</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=reannn22" alt="Profile view counter" />
