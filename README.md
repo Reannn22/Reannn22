@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=reannn22" alt="Profile view counter" />
 </p>
 
-- 🔭 I’m currently working on **Fortuna Project**
+- 🔭 I’m currently working on **Codepolitan Project**
 
 - 🌱 I’m currently learning **Express.js**
 
