@@ -1,98 +1,32 @@
-<h2 align="left">Hi 👋! My name is Reyhan Capri Moraga and I'm a Backend Development Enthusiast from Indonesia!</h2>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Erfan Ferdianto</h1>
+<h3 align="center">A passionate frontend developer & mobile developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rfun-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rfun-dev" /> </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🔭 I’m currently working on **Fortuna Porject**
 
-###
+- 🌱 I’m currently learning **React Native**
 
-### 💻 Technologies & Tools
+- 💬 Ask me about **Android ,React, Laravel**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud logo" />
-</div>
+- 📫 How to reach me **erfan.ferdianto2003@gmail.com**
 
-###
+- ⚡ Fun fact **i'm really like coffe**
 
-### 🌐 Connect with me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/erfan ferdianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfan ferdianto" height="30" width="40" /></a>
+<a href="https://fb.com/erfan.fernando.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erfan.fernando.9" height="30" width="40" /></a>
+<a href="https://instagram.com/r.fun_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.fun_f" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/erfan ferdianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erfan ferdianto" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/h8NKfMQX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/h8NKfMQX" height="30" width="40" /></a>
+</p>
 
-<div align="left">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rfun-dev&show_icons=true&locale=en&layout=compact" alt="rfun-dev" /></p>
 
-### 🎶 Currently Listening On Spotify
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-</div>
-
-###
-
-### 📢 Latest Social Media Updates
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" />
-</div>
-
-###
-
-### 🧑‍💻 My Backend Development Journey
-
-<p align="left">I am passionate about Backend Development, Cloud Computing, and DevOps. Currently, I'm pursuing a degree in Informatics Engineering at the Institute of Technology of Sumatera. My key areas of interest include:</p>
-
-- **Go (Golang)** for backend development
-- **Node.js** and **JavaScript** for server-side scripting
-- **Databases** such as MySQL, PostgreSQL, and MongoDB
-- **Cloud services** such as Google Cloud Platform
-
-### 📚 Projects & Certifications
-
-- Completed various **backend development** projects, specializing in API creation and database management.
-- Certified in **DevOps** and **Data Analytics**.
-
-Feel free to check out my work and connect with me on social platforms! Let’s collaborate and create something amazing together!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rfun-dev&" alt="rfun-dev" /></p>
