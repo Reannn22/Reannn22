@@ -31,7 +31,7 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,expressjs,react,mongodb,postman,python,golang,rust,java,jquery,mysql,npm,vscode,arch," alt="Reyhan Capri Moraga" /></a>
+  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,expressjs,react,mongodb,postman,python,golang,rust,java,jquery,mysql,npm,vscode,arch,docker" alt="Reyhan Capri Moraga" /></a>
 </p>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reannn22&show_icons=true&locale=en&layout=compact&theme=nightowl&exclude_repo=HackFest-KereHore,Raion-RawrNotes,Raion-Coinvest,Statistika-SA,DDAP-BISA-INDONESIA,hackfestuc2024_frontend,5bounties-Trufriend-FE,PEMLAN-FILKOM-TOUR,ASCEND-KBMDSI,elginbrian" alt="reannn22" height="187" /></p>
