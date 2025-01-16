@@ -5,9 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate web developer currently learning Express.js</h3>
-<div style="text-align: right; margin-bottom: 20px;">
-  <img align="right" alt="Coding" width="400" height="250" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif" style="border: 5px solid black; border-radius: 30px;">
-</div>
+<img align="right" alt="Coding" width="400" height="250" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=reannn22" alt="Profile view counter" />
