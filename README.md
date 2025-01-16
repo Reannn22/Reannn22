@@ -1,3 +1,4 @@
+<p><img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=Reannn22" alt="Reannn22"/></p>
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=222&size=60&duration=2222&pause=222&color=F7F7F7&background=FFFFFF00&vCenter=true&width=1222&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Reyhan+Capri+Moraga;I'm+a+Full+Stack+Website+Developer;Building+with+React+JS+and+Express+JS" alt="Typing SVG" style="height: 60px; vertical-align: middle;">
