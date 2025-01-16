@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm 
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=222&size=22&duration=2222&pause=222&color=F7F7F7&width=435&lines=Reyhan+Capri+Moraga;Full+Stack+Website+Developer;building+with+React+and+Express+JS" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=222&size=22&duration=2222&pause=222&color=F7F7F7&width=435&lines=Reyhan+Capri+Moraga;Full+Stack+Website+Developer;building+with+React+and+Express+JS" alt="Typing SVG" style="height: 36px; vertical-align: middle;">
   </a>
 </h1>
 <h3 align="center">A passionate web developer currently learning Express.js</h3>
