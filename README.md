@@ -26,7 +26,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin,discord,instagram,notion,stackoverflow,git,github,twitter," alt="Reyhan Capri Moraga" /></a>
+  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin,discord,instagram,notion,stackoverflow,git,github,twitter,gmail," alt="Reyhan Capri Moraga" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
