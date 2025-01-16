@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=reannn22" alt="Profile view counter" />
 </p>
 
-- 🔭 I’m currently working on **Codepolitan Project**
+- 🔭 I’m currently working on **Freelancer Project**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **React.js & Express.js**
 
 - 💬 Ask me about **Node.js, Bootstrap, Express**
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I really like reading manhwa**
 
-- 🎓 I have 3 coding bootcamp scholarships
+- 🎓 I have **3 coding bootcamp scholarships**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
