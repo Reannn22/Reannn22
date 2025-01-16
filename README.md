@@ -1,8 +1,10 @@
 <h1 align="center">
+  Hi 👋, I'm 
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=222&size=22&duration=2222&pause=222&color=F7F7F7&background=FFFFFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Reyhan+Capri+Moraga;Hi+%F0%9F%91%8B%2C+I'm+a+Full+Stack+Website+Developer;Hi+%F0%9F%91%8B%2C+I'm+building+with+React+and+Express+JS" alt="Typing SVG" style="height: 36px; vertical-align: middle;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=222&size=22&duration=2222&pause=222&color=F7F7F7&background=FFFFFF00&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Reyhan+Capri+Moraga;I'm+a+Full+Stack+Website+Developer;Building+with+React+JS+and+Express+JS" alt="Typing SVG" style="height: 36px; vertical-align: middle;">
   </a>
 </h1>
+
 <h3 align="center">A passionate web developer currently learning Express.js</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
