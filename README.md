@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=222&size=22&duration=2222&pause=222&color=F7F7F7&width=435&lines=Reyhan+Capri+Moraga;Full+Stack+Website+Developer;building+with+React+and+Express+JS)](https://git.io/typing-svg) di [![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)](https://github.com/Reannn22)
 <h1 align="center">Hi 👋, I'm Reyhan Capri Moraga</h1>
 <h3 align="center">A passionate web developer currently learning Express.js</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
