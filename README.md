@@ -31,15 +31,18 @@
   <a href="https://www.youtube.com/c/ReyhanCapriMoraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Reyhan Capri Moraga" height="30" width="40" /></a>
   <a href="https://discord.gg/h8NKfMQX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reyhan Capri Moraga Discord" height="30" width="40" /></a>
   <a href="https://github.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://reddit.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" /></a>
   <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev-dot-to.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://dev.to/" target="blank"><img align="center" src="https://images.seeklogo.com/logo-png/47/1/dev-to-logo-png_seeklogo-474186.png?v=1957824021229137096" alt="Dev.to" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://gitlab.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" alt="GitLab" height="30" width="40" /></a>
+  <a href="https://gitlab.com/" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" alt="GitLab" height="30" width="40" /></a>
   <a href="https://www.twitch.tv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" height="30" width="40" /></a>
+  <a href="https://wa.me/yourwhatsappnumber" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
+  <a href="https://slack.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" alt="Slack" height="30" width="40" /></a>
 </p>
 <hr>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- HTML -->
