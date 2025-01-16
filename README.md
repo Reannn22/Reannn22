@@ -5,45 +5,30 @@
 </h1>
 
 <h3 align="center">A passionate web developer currently learning Express.js</h3>
-
-<div style="text-align: right; margin-bottom: 20px;">
-  <img alt="Coding" width="300" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
-</div>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=reannn22" alt="Profile view counter" />
 </p>
 
-<ul>
-  <li>🔭 I’m currently working on <strong>Codepolitan Project</strong></li>
-  <li>🌱 I’m currently learning <strong>Express.js</strong></li>
-  <li>💬 Ask me about <strong>Node.js, Bootstrap, Express</strong></li>
-  <li>💇 How to reach me: <strong>reyhan.123140022@student.itera.ac.id</strong></li>
-  <li>⚡ Fun fact: I really like reading manhwa</li>
-</ul>
+- 🔭 I’m currently working on **Codepolitan Project**
 
-<hr>
+- 🌱 I’m currently learning **Express.js**
+
+- 💬 Ask me about **Node.js, Bootstrap, Express**
+
+- 💇 How to reach me **reyhan.123140022@student.itera.ac.id**
+
+- ⚡ Fun fact **I really like reading manhwa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reyhan Capri Moraga" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/erfan.fernando.9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erfan.fernando.9" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/reannn22" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.fun_f" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/ReyhanCapriMoraga" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Reyhan Capri Moraga" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/h8NKfMQX" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reyhan Capri Moraga Discord" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reyhan Capri Moraga" height="30" width="40" /></a>
+<a href="https://fb.com/erfan.fernando.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erfan.fernando.9" height="30" width="40" /></a>
+<a href="https://instagram.com/reannn22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.fun_f" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ReyhanCapriMoraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Reyhan Capri Moraga" height="30" width="40" /></a>
+<a href="https://discord.gg/h8NKfMQX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reyhan Capri Moraga Discord" height="30" width="40" /></a>
 </p>
-
-<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -96,10 +81,48 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+
+  <!-- Jest -->
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
+  </a>
+
+  <!-- Socket.io -->
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" width="40" height="40"/>
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
 </p>
 
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reannn22&show_icons=true&locale=en&layout=compact" alt="reannn22" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reannn22&show_icons=true&locale=en&layout=compact" alt="reannn22" width="400" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rfun-dev&" alt="rfun-dev" width="400" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rfun-dev&" alt="rfun-dev" /></p>
