@@ -40,6 +40,7 @@
   <a href="https://www.twitch.tv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" height="30" width="40" /></a>
   <a href="https://wa.me/yourwhatsappnumber" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
   <a href="https://slack.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" alt="Slack" height="30" width="40" /></a>
+  <a href="https://www.notion.so/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" height="30" width="40" /></a>
 </p>
 <hr>
 
