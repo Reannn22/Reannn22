@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate web developer currently learning Express.js</h3>
-<img align="right" alt="Coding" width="400" height="322" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
+<img align="right" alt="Coding" width="400" height="270" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=reannn22" alt="Profile view counter" />
