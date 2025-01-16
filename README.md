@@ -44,7 +44,7 @@
   <a href="https://www.notion.so/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,nodejs,expressjs,react,mysql" alt="Reyhan Capri Moraga" /></a>
 </p>
