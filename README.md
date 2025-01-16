@@ -26,27 +26,12 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reyhan Capri Moraga" height="30" width="40" /></a>
-  <a href="https://fb.com/erfan.fernando.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erfan.fernando.9" height="30" width="40" /></a>
-  <a href="https://instagram.com/reannn22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.fun_f" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/ReyhanCapriMoraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Reyhan Capri Moraga" height="30" width="40" /></a>
-  <a href="https://discord.gg/h8NKfMQX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reyhan Capri Moraga Discord" height="30" width="40" /></a>
-  <a href="https://github.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://reddit.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" /></a>
-  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://dev.to/" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://gitlab.com/" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" alt="GitLab" height="30" width="40" /></a>
-  <a href="https://www.twitch.tv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" height="30" width="40" /></a>
-  <a href="https://wa.me/yourwhatsappnumber" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
-  <a href="https://slack.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" alt="Slack" height="30" width="40" /></a>
-  <a href="https://www.notion.so/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin,discord,instagram,notion,stackoverflow,git,github" alt="Reyhan Capri Moraga" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,expressjs,react,mysql,mongodb,python,golang,rust,java" alt="Reyhan Capri Moraga" /></a>
+  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,expressjs,react,mysql,mongodb,postman,vercel,python,golang,rust,java" alt="Reyhan Capri Moraga" /></a>
 </p>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reannn22&show_icons=true&locale=en&layout=compact&theme=nightowl&exclude_repo=HackFest-KereHore,Raion-RawrNotes,Raion-Coinvest,Statistika-SA,DDAP-BISA-INDONESIA,hackfestuc2024_frontend,5bounties-Trufriend-FE,PEMLAN-FILKOM-TOUR,ASCEND-KBMDSI,elginbrian" alt="reannn22" height="187" /></p>
