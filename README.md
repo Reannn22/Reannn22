@@ -140,3 +140,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reannn22&show_icons=true&locale=en&layout=compact" alt="reannn22" height="187" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rfun-dev&" alt="reannn22" height="187"/></p>
+
+<p><img align="bottom" src="https://github-readme-activity-graph.vercel.app/graph?username=Reannn22&theme=react-dark" alt="reannn22"/></p>
