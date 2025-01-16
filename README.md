@@ -141,7 +141,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reannn22&show_icons=true&locale=en&layout=compact&theme=nightowl&exclude_repo=HackFest-KereHore,Raion-RawrNotes,Raion-Coinvest,Statistika-SA,DDAP-BISA-INDONESIA,hackfestuc2024_frontend,5bounties-Trufriend-FE,PEMLAN-FILKOM-TOUR,ASCEND-KBMDSI,elginbrian" alt="reannn22" height="187" /></p>
 
-<p><img align="center" src="Reannn22's Stats](https://github-readme-stats.vercel.app/api?username=Reannn22&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="reannn22" height="187"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Reannn22&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="reannn22" height="187"/></p>
 
 <p><img align="bottom" src="https://github-readme-activity-graph.vercel.app/graph?username=Reannn22&theme=react-dark" alt="reannn22"/></p>
 
