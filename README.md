@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=reannn22" alt="Profile view counter" />
 </p>
 
-- 🔭 I’m currently working on **PPLK ITERA @)@% BACKEND**
+- 🔭 I’m currently working on **PPLK ITERA 2025 HEAD BACKEND**
 
 - 🌱 I’m currently learning **React.js & Express.js**
 
