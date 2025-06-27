@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate fullstack web developer currently learning Express.js</h3>
+<h3 align="center">A passionate fullstack web developer currently learning laravel</h3>
 <img align="right" alt="Coding" width="400" height="250" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
 <p align="left"> 
